@@ -37,3 +37,28 @@ h2{
 #algum-titulo{
     border-bottom: 4px solid green;
 }
+
+.color-name{
+    color: crimson;
+}
+
+.hex {
+    background: green;
+
+}
+
+.hex-2 {
+    background: #55a398;
+    
+}
+
+.simple-hex{
+    color: #333333
+    color: #333
+
+}
+
+.simple-hex-2{
+    color: #aa55ff
+    color: #a5f
+}
